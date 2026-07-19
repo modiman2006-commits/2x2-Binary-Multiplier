@@ -101,6 +101,7 @@ Binary-Multiplier-2x2/
 ## 🖼 Circuit Diagram
 
 ![2×2 Binary Multiplier](screenshots/multiplier_2x2.png)
+Half Adder Screenshots 
 ![half_adder](screenshots/half_adder.png)
 ---
 
