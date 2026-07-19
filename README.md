@@ -188,12 +188,7 @@ After completing this project, you will understand:
 ## 🤝 Contributing
 
 Contributions, suggestions, and improvements are welcome. Feel free to fork this repository and submit a pull request.
-
----
-
-## 📄 License
-
-This project is released under the MIT License.
+ 
 
 ---
 
